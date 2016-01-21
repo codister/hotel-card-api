@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+booking1:
+  hotel: hotel1
+  user: user1
+  date: <%= Date.today %>
+
+booking2:
+  hotel: hotel2
+  user: user2
+  date: <%= Date.today %>
